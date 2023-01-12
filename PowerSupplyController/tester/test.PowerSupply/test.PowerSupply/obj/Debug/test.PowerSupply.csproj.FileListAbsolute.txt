@@ -1,0 +1,16 @@
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.csproj.AssemblyReference.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.csproj.SuggestedBindingRedirects.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.Form1.resources
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.Properties.Resources.resources
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.csproj.GenerateResource.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.csproj.CoreCompileInputs.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\test.PowerSupply.exe.config
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\test.PowerSupply.exe
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\test.PowerSupply.pdb
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\Ivi.Visa.dll
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\NationalInstruments.Visa.dll
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\Ivi.Visa.xml
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\bin\Debug\NationalInstruments.Visa.xml
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.csproj.CopyComplete
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.exe
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\tester\test.PowerSupply\test.PowerSupply\obj\Debug\test.PowerSupply.pdb

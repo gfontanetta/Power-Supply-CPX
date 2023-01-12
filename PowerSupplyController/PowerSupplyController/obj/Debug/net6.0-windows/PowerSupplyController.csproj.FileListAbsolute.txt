@@ -1,0 +1,5 @@
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\PowerSupplyController\PowerSupplyController\obj\Debug\net6.0-windows\PowerSupplyController.csproj.AssemblyReference.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\PowerSupplyController\PowerSupplyController\obj\Debug\net6.0-windows\MainWindow.g.cs
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\PowerSupplyController\PowerSupplyController\obj\Debug\net6.0-windows\App.g.cs
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\PowerSupplyController\PowerSupplyController\obj\Debug\net6.0-windows\PowerSupplyController_MarkupCompile.cache
+O:\Department\Engineering\SW Team\StabTeamMROVerifier\Fontanetta_PowerSupply_Program\PowerSupplyController\PowerSupplyController\obj\Debug\net6.0-windows\PowerSupplyController_MarkupCompile.lref
